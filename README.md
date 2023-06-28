@@ -27,6 +27,7 @@
 </div>
 </div>
 <div>
+<br><br><br>
 <h2 align="center">Contacts</h2>
 <div align="center">
 <p align="center"><a href="https://linkedin.com/in/alexander-bondaruk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a><a href="https://discordapp.com/users/477349220567744512" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a> <a href="mailto: balex499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a></p>
